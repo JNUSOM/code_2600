@@ -14,3 +14,8 @@ data
 *.pdf
 example.db
 .DS_Store
+unique_artist.txt
+unique_artists.txt
+unique_male_names.txt
+test.cpp
+personal.ipynb
